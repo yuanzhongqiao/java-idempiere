@@ -1,17 +1,9 @@
-# iDempiere. Community Powered Enterprise
-
-iDempiere Business Suite ERP/CRM/SCM done the community way.  Focus is on the Community that includes Subject Matter Specialists, Implementors and End-Users.
-
-Please visit the project front page containing links for most of our resources: https://www.idempiere.org/
-
-You can have a first-hand experience about the software in one of our live cloud test sites: https://www.idempiere.org/test-sites
-
-If you want to install it by yourself, the most used way is to follow the guide: https://wiki.idempiere.org/en/Installing_iDempiere
-
-In case of doubts please use our support forums at https://groups.google.com/group/idempiere  
-Or our Mattermost support channel in https://mattermost.idempiere.org/  
-Don't forget to check our [code of conduct](CODE_OF_CONDUCT.md) and our [contribution guide](CONTRIBUTING.md)
-
-If you find a bug or want to register a feature request please consider discussing it first in our forums, and after you're totally sure, please use the JIRA ticketing system: https://idempiere.atlassian.net
-
-Continuous integration when changing this repository is managed with Jenkins at https://jenkins.idempiere.org/
+<div class="Box-sc-g0xbh4-0 QkQOb js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto" _msttexthash="1199874" _msthash="536">iDempiere.Community Powered Enterprise</h1><a id="user-content-idempiere-community-powered-enterprise" class="anchor" aria-label="永久链接：iDempiere。Community Powered Enterprise" href="#idempiere-community-powered-enterprise" _mstaria-label="1828879" _msthash="537"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto" _msttexthash="556056761" _msthash="538">iDempiere Business Suite ERP/CRM/SCM 以社区方式完成。重点是社区，包括主题专家、实施者和最终用户。</p>
+<p dir="auto" _msttexthash="147916587" _msthash="539">请访问包含我们大部分资源链接的项目首页：<a href="https://www.idempiere.org/" rel="nofollow" _istranslated="1">https://www.idempiere.org/</a></p>
+<p dir="auto" _msttexthash="252135039" _msthash="540">您可以在我们的实时云测试站点之一获得有关该软件的第一手经验：<a href="https://www.idempiere.org/test-sites" rel="nofollow" _istranslated="1">https://www.idempiere.org/test-sites</a></p>
+<p dir="auto" _msttexthash="195016627" _msthash="541">如果您想自己安装，最常用的方法是按照指南进行操作：<a href="https://wiki.idempiere.org/en/Installing_iDempiere" rel="nofollow" _istranslated="1">https://wiki.idempiere.org/en/Installing_iDempiere</a></p>
+<p dir="auto" _msttexthash="1291539275" _msthash="542">如有疑问，请使用我们的支持论坛 <a href="https://groups.google.com/group/idempiere" rel="nofollow" _istranslated="1">https://groups.google.com/group/idempiere</a><br _istranslated="1"> 或我们在 <a href="https://mattermost.idempiere.org/" rel="nofollow" _istranslated="1">https://mattermost.idempiere.org/</a> 的 Mattermost 支持频道 <br _istranslated="1"> 不要忘记查看我们的<a href="/idempiere/idempiere/blob/master/CODE_OF_CONDUCT.md" _istranslated="1">行为准则</a>和<a href="/idempiere/idempiere/blob/master/CONTRIBUTING.md" _istranslated="1">我们的贡献指南</a></p>
+<p dir="auto" _msttexthash="595916958" _msthash="543">如果您发现错误或想要注册功能请求，请考虑先在我们的论坛中讨论，在您完全确定后，请使用 JIRA 票务系统：<a href="https://idempiere.atlassian.net" rel="nofollow" _istranslated="1">https://idempiere.atlassian.net</a></p>
+<p dir="auto" _msttexthash="63296376" _msthash="544">更改此存储库时的持续集成由 <a href="https://jenkins.idempiere.org/" rel="nofollow" _istranslated="1">Jenkins https://jenkins.idempiere.org/</a></p>
+</article></div>
